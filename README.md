@@ -6,7 +6,7 @@ Projet n°4 : "Anticipez les besoins en consommation de bâtiments"
 
 ## Description du projet
 
-La ville de Seattle souhaite atteindre la neutralité carbone en 2050, dans ce but il nous a été demandé de mettre au point un modèle de prédiction des émissions de CO2 et de la consommation totale d'énergie de bâtiments non-résidentiels en se passant des relevés énergétiques, très coûteux à établir. Il nous a aussi été demandé d'étudier l'intérêt de l'ENERGYSTAR Score qui est aussi très difficile à calculer.
+La ville de Seattle souhaite atteindre la neutralité carbone en 2050, dans ce but il nous a été demandé de mettre au point un **modèle de prédiction des émissions de CO2 et de la consommation totale d'énergie** de bâtiments non-résidentiels en se passant des relevés énergétiques, très coûteux à établir. Il nous a aussi été demandé d'étudier l'intérêt de l'ENERGYSTAR Score qui est aussi très difficile à calculer.
 
 Source des données : https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv
 
