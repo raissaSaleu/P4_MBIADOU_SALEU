@@ -24,7 +24,7 @@ Source des données : https://www.kaggle.com/city-of-seattle/sea-building-energy
 
 ## Livrables
 
-* Un [notebook de l'analyse exploratoire](https://github.com/raissaSaleu/P4_MBIADOU_SALEU/blob/main/P%C3%A9lec_01_notebook.ipynb) mis au propre et annoté.
-* Un [notebook pour chaque prédiction (émissions de CO2 et consommation totale d’énergie) des différents tests de modèles](https://github.com/raissaSaleu/P4_MBIADOU_SALEU/blob/main/P%C3%A9lec_02_code.ipynb) mis au propre, avec identification claire du modèle final choisi.
+* Un [notebook de l'analyse exploratoire](https://github.com/raissaSaleu/P4_MBIADOU_SALEU/blob/main/P%C3%A9lec_01_notebook.ipynb) mis au propre et annoté
+* Un [notebook pour chaque prédiction (émissions de CO2 et consommation totale d’énergie) des différents tests de modèles](https://github.com/raissaSaleu/P4_MBIADOU_SALEU/blob/main/P%C3%A9lec_02_code.ipynb) mis au propre, avec identification claire du modèle final choisi
 * Un [notebook d'analyse de l'intérêt de l'ENERGYSTAR Score](https://github.com/raissaSaleu/P4_MBIADOU_SALEU/blob/main/EnergyStarScoreImpact.ipynb)
 * Un [support de présentation](https://github.com/raissaSaleu/P4_MBIADOU_SALEU/blob/main/Soutenance%20Projet%204.pdf) pour la soutenance
